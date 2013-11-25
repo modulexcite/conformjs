@@ -34,4 +34,10 @@ describe("conformation utilities", function() {
 		var result = utils.getInstanceTypeName(instance);
 		expect(result).toBe("TestClass");
 	});
+
+	it("must be able to identify date type name", function() {
+		var instance = new Date();
+		var result = utils.getInstanceTypeName(instance);
+		expect(result).toBe("Date");
+	});
 });

@@ -10,7 +10,7 @@ and has the appropriate data from the input object.
 
 ````js
 var blogPostSpec =  {
-	title: { type: "String", requirede: true},
+	title: { type: "String", required: true},
 	message: { type: "String" },
 	timestamp: {type: "Date", required: true}
 };
