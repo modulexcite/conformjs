@@ -1,6 +1,8 @@
 conformjs
 =========
 
+[![Build Status](https://travis-ci.org/dwmkerr/conformjs.png?branch=master)](https://travis-ci.org/dwmkerr/conformjs)
+
 ConformJS is a super-light JavaScript library that lets you create a POJO (Plain
 old JavaScript Object) from any other JavaScript object. It's a great way of cleaning
 up the input to APIs, services and functions.
