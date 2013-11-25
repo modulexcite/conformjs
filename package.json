@@ -4,6 +4,11 @@
   "version": "0.0.1",
   "private": false,
   "dependencies": {
+  },
+  "devDependencies": {
     "jasmine-node": "1.11.0"
+  },
+  "scripts": {
+  	"test" : "jasmine-node spec"
   }
 }
