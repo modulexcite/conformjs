@@ -1,0 +1,27 @@
+{
+  "name": "conformjs",
+  "version": "0.0.1",
+  "authors": [
+    "Dave Kerr <dwmkerr@gmail.com>"
+  ],
+  "description": "conformjs",
+  "main": "conform.js",
+  "keywords": [
+    "conform",
+    "javascript",
+    "json"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dwmkerr/conformjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jasmine": "https://github.com/pivotal/jasmine.git#~1.3.1",
+    "requirejs": "https://github.com/jrburke/requirejs.git#~2.1.9"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "conformjs",
+  "description": "ConformJS",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "jasmine-node": "1.11.0"
+  }
+}
